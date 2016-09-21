@@ -1,0 +1,9 @@
+[{<<"acceptor_pool">>,{pkg,<<"acceptor_pool">>,<<"1.0.0-rc.0">>},0},
+ {<<"jobs">>,
+  {git,"https://github.com/uwiger/jobs.git",
+       {ref,"9233b5446ca32ad257ff6166c91eb7e9130ce4f3"}},
+  0},
+ {<<"parse_trans">>,
+  {git,"git://github.com/uwiger/parse_trans.git",
+       {ref,"6f3645afb43c7c57d61b54ef59aecab288ce1013"}},
+  1}].
