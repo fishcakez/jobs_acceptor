@@ -1,5 +1,5 @@
 {application, jobs_acceptor,
- [{description, "An OTP library"},
+ [{description, "Rate limited acceptor regulated by jobs"},
   {vsn, "0.1.0"},
   {registered, []},
   {applications,
